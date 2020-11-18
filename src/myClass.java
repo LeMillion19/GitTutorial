@@ -12,3 +12,7 @@ public class MyClass{
         System.out.println(sum);
     }
 }
+
+public void NewFeature{
+    // bla bla bla
+        }
